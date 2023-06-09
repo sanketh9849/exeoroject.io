@@ -1,0 +1,74 @@
+.container1{
+    background-image: url('/Users/srikar/Desktop/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpeg');
+    background-size: cover;
+    min-width:70vw;
+    height:80vh;
+}
+.heading{
+    font-size:40px;
+    font-family:Roboto;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    padding-top: 40px;
+}
+.container2{
+    padding-top: 20px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.click1{
+    background-color:lightcyan;
+    height:5vh;
+    margin-left:30px;
+}
+.click2{
+    background-color: lightcyan;
+
+    margin-left:30px;
+}
+.container3{
+    background-image: url('/Users/srikar/Desktop/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpeg');
+    background-size: cover;
+    height:100vh;
+    min-width:70vw;
+}
+.container4{
+    background-image: url('/Users/srikar/Desktop/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpeg');
+    height:100vh;
+    min-width:70;
+    background-size: cover;
+}
+
+.btn2{
+    height:5vh;
+    text-align: center;
+    padding-top:10px;
+    background-color: blue;
+    margin-top:10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
